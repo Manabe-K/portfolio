@@ -115,3 +115,6 @@ RUNTEQ関係者が一番に使ってもらえるユーザーになると感じ�
 
 ##  ■ 画面遷移図
 https://www.figma.com/design/jah3QUUTFfYsOyTFQvHbnG/Untitled?node-id=0-1&p=f&t=WQj0GQiOz5Mu3w0u-0
+
+##  ■ ER図
+https://dbdiagram.io/d/Portfolio_ERD-67b816ca263d6cf9a0f3c358
