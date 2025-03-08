@@ -41,3 +41,6 @@
 
 .DS_Store
 /vendor/bundle
+
+# Ignore Docker environment file
+/dockerfile.env
